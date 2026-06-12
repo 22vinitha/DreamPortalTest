@@ -1,7 +1,5 @@
-# 🌙 Dream Portal – Automated Testing Suite
-
-> **Selenium (Java) + TestNG** | Page Object Model | ExtentReports | AI-Based Validation | Screenshot Capture
-
+# 💫 Dream Portal – Automated Testing Suite
+> **`Selenium (Java)`** + **`TestNG`** | `Page Object Model` | `ExtentReports` | `AI-Based Validation` | `Screenshot Capture`
 [![Author](https://img.shields.io/badge/Author-Vinitha%20M-blueviolet?style=flat-square)](mailto:vinitha.m@email.com)
 [![Framework](https://img.shields.io/badge/Framework-Selenium-43B02A?style=flat-square)](https://www.selenium.dev/)
 [![Language](https://img.shields.io/badge/Language-Java-ED8B00?style=flat-square)](https://www.java.com/)
