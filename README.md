@@ -1,12 +1,11 @@
 # 💫 Dream Portal – Automated Testing Suite
 > **`Selenium (Java)`** + **`TestNG`** | `Page Object Model` | `ExtentReports` | `AI-Based Validation` | `Screenshot Capture`
-[![Author](https://img.shields.io/badge/Author-Vinitha%20M-FF4B91?style=for-the-badge)](mailto:vinitha.m@email.com)
-[![Framework](https://img.shields.io/badge/Framework-Selenium-00B4AB?style=for-the-badge)](https://www.selenium.dev/)
-[![Language](https://img.shields.io/badge/Language-Java-007396?style=for-the-badge)](https://www.java.com/)
-[![Testing](https://img.shields.io/badge/Testing-TestNG-E34F26?style=for-the-badge)](https://testng.org/)
-[![Reports](https://img.shields.io/badge/Reports-ExtentReports-4B0082?style=for-the-badge)](https://www.extentreports.com/)
-[![Build](https://img.shields.io/badge/Build-Maven-2E8B57?style=for-the-badge)](https://maven.apache.org/)
----
+[![Author](https://img.shields.io/badge/Author-Vinitha%20M-9C27B0?style=plastic)](mailto:vinitha.m@email.com)
+[![Framework](https://img.shields.io/badge/Framework-Selenium-009639?style=plastic)](https://www.selenium.dev/)
+[![Language](https://img.shields.io/badge/Language-Java-EA2D2E?style=plastic)](https://www.java.com/)
+[![Testing](https://img.shields.io/badge/Testing-TestNG-2496ED?style=plastic)](https://testng.org/)
+[![Reports](https://img.shields.io/badge/Reports-ExtentReports-FFA500?style=plastic)](https://www.extentreports.com/)
+[![Build](https://img.shields.io/badge/Build-Maven-1572B6?style=plastic)](https://maven.apache.org/)
 
 ## 📖 Overview
 
