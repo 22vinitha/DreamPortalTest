@@ -1,12 +1,12 @@
 # 💫 Dream Portal – Automated Testing Suite
 > **`Selenium (Java)`** + **`TestNG`** | `Page Object Model` | `ExtentReports` | `AI-Based Validation` | `Screenshot Capture`
-[![Author](https://img.shields.io/badge/Author-Vinitha%20M-9C27B0?style=plastic)](mailto:vinitha.m@email.com)
-[![Framework](https://img.shields.io/badge/Framework-Selenium-009639?style=plastic)](https://www.selenium.dev/)
-[![Language](https://img.shields.io/badge/Language-Java-EA2D2E?style=plastic)](https://www.java.com/)
-[![Testing](https://img.shields.io/badge/Testing-TestNG-2496ED?style=plastic)](https://testng.org/)
-[![Reports](https://img.shields.io/badge/Reports-ExtentReports-FFA500?style=plastic)](https://www.extentreports.com/)
-[![Build](https://img.shields.io/badge/Build-Maven-1572B6?style=plastic)](https://maven.apache.org/)
-
+[![Author](https://badgen.net/badge/Author/Vinitha%20M/purple)](mailto:vinitha.m@email.com)
+[![Framework](https://badgen.net/badge/Framework/Selenium/green)](https://www.selenium.dev/)
+[![Language](https://badgen.net/badge/Language/Java/orange)](https://www.java.com/)
+[![Testing](https://badgen.net/badge/Testing/TestNG/red)](https://testng.org/)
+[![Reports](https://badgen.net/badge/Reports/ExtentReports/blue)](https://www.extentreports.com/)
+[![Build](https://badgen.net/badge/Build/Maven/cyan)](https://maven.apache.org/)
+>
 ## 📖 Overview
 
 This project automates end-to-end UI testing of the **Dream Portal** web application — a dream journaling website. Built with **Selenium WebDriver (Java)** and **TestNG**, it follows the **Page Object Model (POM)** design pattern for clean, maintainable test code.
