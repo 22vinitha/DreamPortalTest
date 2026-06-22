@@ -1,11 +1,11 @@
 # 💫 Dream Portal – Automated Testing Suite
 > **`Selenium (Java)`** + **`TestNG`** | `Page Object Model` | `ExtentReports` | `AI-Based Validation` | `Screenshot Capture`
-[![Author](https://badgen.net/badge/Author/Vinitha%20M/purple)](mailto:vinitha.m@email.com)
-[![Framework](https://badgen.net/badge/Framework/Selenium/green)](https://www.selenium.dev/)
-[![Language](https://badgen.net/badge/Language/Java/orange)](https://www.java.com/)
-[![Testing](https://badgen.net/badge/Testing/TestNG/red)](https://testng.org/)
-[![Reports](https://badgen.net/badge/Reports/ExtentReports/blue)](https://www.extentreports.com/)
-[![Build](https://badgen.net/badge/Build/Maven/cyan)](https://maven.apache.org/)
+[![Author](https://img.shields.io/badge/Author-Vinitha%20M-black?style=flat&logo=googlemail&logoColor=white)](mailto:vinitha.m@email.com)
+[![Framework](https://img.shields.io/badge/Framework-Selenium-black?style=flat&logo=selenium&logoColor=43B02A)](https://www.selenium.dev/)
+[![Language](https://img.shields.io/badge/Language-Java-black?style=flat&logo=java&logoColor=ED8B00)](https://www.java.com/)
+[![Testing](https://img.shields.io/badge/Testing-TestNG-black?style=flat&logo=testinglibrary&logoColor=red)](https://testng.org/)
+[![Reports](https://img.shields.io/badge/Reports-ExtentReports-black?style=flat&logo=googlecharts&logoColor=orange)](https://www.extentreports.com/)
+[![Build](https://img.shields.io/badge/Build-Maven-black?style=flat&logo=apachemaven&logoColor=C71A36)](https://maven.apache.org/)
 >
 ## 📖 Overview
 
